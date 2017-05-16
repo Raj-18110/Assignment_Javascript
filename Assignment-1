@@ -7,7 +7,7 @@ function fifthday()
 
 var days=["sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 
-var dt =  new Date("December 25, 1995 23:15:00");
+var dt =  new Date();
  //document.write(days[dt.getDay()])
 var dt1=(dt.getDay()+5)%7;
 
