@@ -105,7 +105,7 @@ return null}
  return student;
  }
  
-var s = makeStudent("2014106", "1", "UG7")
+var s = makeStudent("20141061", "1", "UG7")
 
 
 
