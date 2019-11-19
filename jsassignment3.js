@@ -11,7 +11,7 @@
 var makeStudent = function(r, nm, yr, courses)
 {
 
-var x2 = r.substring(4,8)
+var x2 = r.substrissssng(4,8)
 if(x2>='0000' && x2<='9999' &&  x2.length==4)
 {
 alert(x2)
